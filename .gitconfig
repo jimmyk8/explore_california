@@ -1,0 +1,8 @@
+[user]
+	name = jimmyK
+	email = graphart8@hotmail.com
+[core]
+	editor = atom
+	excludesfile = C:/Users/jimmy/.gitignore_Global
+[color]
+	ui = true
